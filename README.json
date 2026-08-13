@@ -1,0 +1,1299 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Giter8 template for a minimal Scala Native project",
+          "description": "Official Giter8 template for a minimal Scala Native project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-06T11:05:34Z",
+            "owner": "scala-native",
+            "repo": "scala-native.g8",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example project with external dependencies",
+          "description": "Example project that uses external dependencies to generate HTML and run a test suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-07-16T16:36:38Z",
+            "owner": "lihaoyi",
+            "repo": "scala-native-example-app",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hands on Scala Native",
+          "description": "Tutorial for implementing a bandwidth monitor with Ncurses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-06-19T18:46:27Z",
+            "owner": "MasseGuillaume",
+            "repo": "hands-on-scala-native",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter for Scala Native",
+          "description": "Scala Native project that links to a custom C library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2018-03-24T15:12:56Z",
+            "owner": "GnaneshKunal",
+            "repo": "scala-native-starter",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Write a simple CLI application in Scala Native",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-06-05T06:34:01Z",
+            "owner": "i10416",
+            "repo": "prettytable-native",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building C code using sbt-jni",
+          "description": "Example for compiling C code in a Scala Native project using sbt-jni.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2017-05-19T15:29:50Z",
+            "owner": "nadavwr",
+            "repo": "scala-native-sbt-jni-example",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter for Gtk+ Projects",
+          "description": "Giter8 template for Scala Native GUI projects using Gtk+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2019-06-23T10:55:27Z",
+            "owner": "jokade",
+            "repo": "scalanative-gtk-seed.g8",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tutorials and Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mill",
+          "description": "Build tool striving for simplicity, inspired by Bazel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T09:12:20Z",
+            "owner": "com-lihaoyi",
+            "repo": "mill",
+            "stars": 2776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloop",
+          "description": "Scala build server and command-line tool for fast developer workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T10:50:53Z",
+            "owner": "scalacenter",
+            "repo": "bloop",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seed",
+          "description": "Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by Cargo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-12-11T12:34:23Z",
+            "owner": "tindzk",
+            "repo": "seed",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "Build Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cats",
+          "description": "Abstractions for functional programming in Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-09T18:15:00Z",
+            "owner": "typelevel",
+            "repo": "cats",
+            "stars": 5451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scalaz",
+          "description": "Type classes and instances for data structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-10T22:30:51Z",
+            "owner": "scalaz",
+            "repo": "scalaz",
+            "stars": 4673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shapeless",
+          "description": "Library for generic programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T21:42:16Z",
+            "owner": "milessabin",
+            "repo": "shapeless",
+            "stars": 3399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chimney",
+          "description": "Boilerplate-free data transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T01:29:34Z",
+            "owner": "scalalandio",
+            "repo": "chimney",
+            "stars": 1254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squants",
+          "description": "DSL for quantities, units of measure and dimensional analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T16:26:44Z",
+            "owner": "typelevel",
+            "repo": "squants",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quicklens",
+          "description": "Modify deeply nested case class fields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T00:12:35Z",
+            "owner": "softwaremill",
+            "repo": "quicklens",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceCode",
+          "description": "Implicits providing meta data similar to in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-10-15T13:46:58Z",
+            "owner": "com-lihaoyi",
+            "repo": "sourcecode",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PPrint",
+          "description": "Pretty-print values and types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-05-28T09:20:16Z",
+            "owner": "com-lihaoyi",
+            "repo": "PPrint",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reactify",
+          "description": "Functional Reactive Programming framework for Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-09T01:21:08Z",
+            "owner": "outr",
+            "repo": "reactify",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nobox",
+          "description": "Immutable primitive array wrapper without boxing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T03:40:16Z",
+            "owner": "xuwei-k",
+            "repo": "nobox",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Functional Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScalaCheck",
+          "description": "Property-based testing for Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-10T20:33:03Z",
+            "owner": "typelevel",
+            "repo": "scalacheck",
+            "stars": 1964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScalaTest",
+          "description": "Testing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T13:25:45Z",
+            "owner": "scalatest",
+            "repo": "scalatest",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "specs2",
+          "description": "Software Specifications for Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T23:02:04Z",
+            "owner": "etorreborre",
+            "repo": "specs2",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "µTest",
+          "description": "Library for unit tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-01-22T23:21:51Z",
+            "owner": "com-lihaoyi",
+            "repo": "utest",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MUnit",
+          "description": "Scala testing library with actionable errors and extensible APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-09T07:29:28Z",
+            "owner": "scalameta",
+            "repo": "munit",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scalaprops",
+          "description": "Library for property-based testing.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scalaprops-shapeless",
+              "description": "Generation of arbitrary ADT instances.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-08-07T03:40:20Z",
+                "owner": "scalaprops",
+                "repo": "scalaprops-shapeless",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scalaprops-cross-example",
+              "description": "Cross-platform example.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-08-07T03:44:04Z",
+                "owner": "scalaprops",
+                "repo": "scalaprops-cross-example",
+                "stars": 4
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T03:43:05Z",
+            "owner": "scalaprops",
+            "repo": "scalaprops",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minitest",
+          "description": "Lightweight testing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-10T10:16:26Z",
+            "owner": "monix",
+            "repo": "minitest",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Makeshift",
+          "description": "Library for unit tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-03-10T23:32:18Z",
+            "owner": "nadavwr",
+            "repo": "makeshift",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Unit Tests"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libui",
+          "description": "GUI framework based on libui.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-07-18T16:14:34Z",
+            "owner": "lolgab",
+            "repo": "scalaui",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDL2 and OpenGL",
+          "description": "Bindings for the graphical frameworks SDL2 and OpenGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2022-08-02T14:25:12Z",
+            "owner": "regb",
+            "repo": "scalanative-graphics-bindings",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLAS",
+          "description": "Bindings for BLAS, a library for Linear Algebra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T00:01:08Z",
+            "owner": "ekrich",
+            "repo": "sblas",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gtk+",
+          "description": "Bindings for the GTK+ graphical toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-10-11T16:09:39Z",
+            "owner": "jokade",
+            "repo": "scalanative-gtk",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cocoa",
+          "description": "Bindings for the macOS graphical framework Cocoa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-04-11T23:02:08Z",
+            "owner": "jokade",
+            "repo": "scalanative-cocoa",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmark",
+          "description": "Bindings for the cmark CommonMark parser library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-09-14T08:19:11Z",
+            "owner": "sparsetech",
+            "repo": "cmark-scala",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libuv",
+          "description": "Bindings for libuv, a library for asynchronous I/O.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-04-29T17:12:58Z",
+            "owner": "timothyklim",
+            "repo": "scala-native-libuv",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qt",
+          "description": "Bindings for Qt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-01-06T20:13:23Z",
+            "owner": "jokade",
+            "repo": "scalanative-qt5",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncurses",
+          "description": "Bindings for the GNU Ncurses Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-02-16T21:59:54Z",
+            "owner": "edadma",
+            "repo": "ncurses",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNU Scientific Library",
+          "description": "Bindings for GNU Scientific Library (GSL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-10-18T20:53:18Z",
+            "owner": "ruivieira",
+            "repo": "scala-gsl",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsoup",
+          "description": "Bindings for the libsoup HTTP client/server library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2019-06-22T06:11:41Z",
+            "owner": "jokade",
+            "repo": "scalanative-libsoup",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GStreamer",
+          "description": "Bindings for the GStreamer multimedia framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2019-10-04T08:23:04Z",
+            "owner": "jokade",
+            "repo": "scalanative-gstreamer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libcairo",
+          "description": "Bindings for the Cairo 2D graphics C library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-09T14:10:28Z",
+            "owner": "edadma",
+            "repo": "libcairo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsndfile",
+          "description": "Bindings for the Libsndfile C library for sampled sound manipulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-09-05T11:24:40Z",
+            "owner": "edadma",
+            "repo": "libsndfile",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iup",
+          "description": "Bindings for the IUP multi-platform toolkit for building graphical user interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-01-07T17:33:44Z",
+            "owner": "edadma",
+            "repo": "iup",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libpng",
+          "description": "Bindings for the libpng C reference library for reading and writing PNGs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-07T11:16:59Z",
+            "owner": "edadma",
+            "repo": "libpng",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readline",
+          "description": "Bindings for the GNU Readline Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-02-18T17:47:02Z",
+            "owner": "edadma",
+            "repo": "readline",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cairo-xlib",
+          "description": "Bindings for the Cairo 2D graphics XLib Surfaces with bindings for XLib as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-09-18T20:29:03Z",
+            "owner": "edadma",
+            "repo": "cairo-xlib",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libyaml",
+          "description": "Bindings for the LibYAML C library for parsing YAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-10-04T22:35:37Z",
+            "owner": "edadma",
+            "repo": "libyaml",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Bindings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScalaPB",
+          "description": "Protocol Buffer compiler for Scala.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scalapb-argonaut",
+              "description": "JSON and Protocol Buffer converters for ScalaPB based on Argonaut.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-08-12T21:30:07Z",
+                "owner": "scalapb-json",
+                "repo": "scalapb-argonaut",
+                "stars": 2
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T23:19:44Z",
+            "owner": "scalapb",
+            "repo": "ScalaPB",
+            "stars": 1338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastParse",
+          "description": "Library for defining and running parsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-01-14T11:43:59Z",
+            "owner": "com-lihaoyi",
+            "repo": "fastparse",
+            "stars": 1135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scalatags",
+          "description": "HTML/XML construction and rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-07-11T01:21:23Z",
+            "owner": "com-lihaoyi",
+            "repo": "scalatags",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uPickle",
+          "description": "uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-02-27T01:12:20Z",
+            "owner": "com-lihaoyi",
+            "repo": "upickle",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argonaut",
+          "description": "Purely functional JSON parser and library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-10T11:27:57Z",
+            "owner": "argonaut-io",
+            "repo": "argonaut",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sconfig",
+          "description": "HOCON parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T00:02:23Z",
+            "owner": "ekrich",
+            "repo": "sconfig",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pine",
+          "description": "HTML/XML parsing, manipulation and rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-12-10T15:32:52Z",
+            "owner": "sparsetech",
+            "repo": "pine",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-json",
+          "description": "JSON parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2022-01-17T16:03:25Z",
+            "owner": "MediaMath",
+            "repo": "scala-json",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toml-scala",
+          "description": "TOML parser with codec derivation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2024-10-24T17:24:06Z",
+            "owner": "sparsetech",
+            "repo": "toml-scala",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msgpack4z",
+          "description": "Implementation of MessagePack, a binary serialisation format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T03:44:10Z",
+            "owner": "msgpack4z",
+            "repo": "msgpack4z-native",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "squiggly",
+          "description": "Cross-platform template language for Scala, inspired by Liquid and Hugo templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-05-16T20:33:42Z",
+            "owner": "edadma",
+            "repo": "squiggly",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "File Formats and Parsers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "skunk",
+          "description": "A data access library for Scala + Postgres.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-09T20:18:16Z",
+            "owner": "typelevel",
+            "repo": "skunk",
+            "stars": 1664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLite4S",
+          "description": "Port of the Java library Sqlite4java. Includes bindings for the SQLite native library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-06-05T07:51:30Z",
+            "owner": "david-bouyssie",
+            "repo": "sqlite4s",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-native-jdbc",
+          "description": "Port of the database access layer JDBC to Scala Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-19T07:48:34Z",
+            "owner": "lolgab",
+            "repo": "scala-native-jdbc",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libpq4s",
+          "description": "Scala wrapper around the async PostgreSQL C library libpq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-10-26T07:37:59Z",
+            "owner": "david-bouyssie",
+            "repo": "libpq4s",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sttp",
+          "description": "HTTP Client library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T00:48:21Z",
+            "owner": "softwaremill",
+            "repo": "sttp",
+            "stars": 1503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snunit",
+          "description": "Scala Native HTTP server based on NGINX Unit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-03T19:44:51Z",
+            "owner": "lolgab",
+            "repo": "snunit",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trail",
+          "description": "Routing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2022-05-04T08:26:56Z",
+            "owner": "sparsetech",
+            "repo": "trail",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "Web Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "castor",
+          "description": "Lightweight, typed Actor library for Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-04-10T12:41:49Z",
+            "owner": "com-lihaoyi",
+            "repo": "castor",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-native-loop",
+          "description": "Event loop and async-oriented IO for Scala Native",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-06-18T13:51:56Z",
+            "owner": "scala-native",
+            "repo": "scala-native-loop",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Concurrency"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scribe",
+          "description": "Fast and simple logging library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T00:24:45Z",
+            "owner": "outr",
+            "repo": "scribe",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slogging",
+          "description": "Typesafe-logging and SLF4J-compatible logging library based on macros.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-09-17T15:39:59Z",
+            "owner": "jokade",
+            "repo": "slogging",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scopt",
+          "description": "Command-line argument parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T04:06:51Z",
+            "owner": "scopt",
+            "repo": "scopt",
+            "stars": 1445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scallop",
+          "description": "A simple Scala CLI parsing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-11-30T06:59:37Z",
+            "owner": "scallop",
+            "repo": "scallop",
+            "stars": 686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "decline",
+          "description": "A composable command-line parser for Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-04-08T03:57:53Z",
+            "owner": "bkirwi",
+            "repo": "decline",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fansi",
+          "description": "Library for creating ANSI-coloured strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-10-15T13:46:29Z",
+            "owner": "com-lihaoyi",
+            "repo": "fansi",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mainargs",
+          "description": "Small, dependency-free library for command line argument parsing in Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-01-14T12:14:06Z",
+            "owner": "com-lihaoyi",
+            "repo": "mainargs",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-optparse-applicative",
+          "description": "Port of Haskell's CLI argument parsing library optparse-applicative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T03:40:30Z",
+            "owner": "xuwei-k",
+            "repo": "optparse-applicative",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Console"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Potassium",
+          "description": "Framework for writing robot software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-04-27T01:40:01Z",
+            "owner": "Team846",
+            "repo": "potassium",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPILib",
+          "description": "Reimplementation of the FIRST Robotics WPILib libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-03-28T03:11:50Z",
+            "owner": "Team846",
+            "repo": "scala-native-wpilib",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Robotics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coursier",
+          "description": "Coursier's command generates native launchers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-06T15:06:21Z",
+            "owner": "coursier",
+            "repo": "coursier",
+            "stars": 2132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sglgears",
+          "description": "Port of GL gears.c.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-09-26T18:25:51Z",
+            "owner": "Milyardo",
+            "repo": "sglgears",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fractals",
+          "description": "A self-similar fractal generator with basic animation support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-10-27T21:22:59Z",
+            "owner": "smithandrewl",
+            "repo": "fractals",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8s-cli",
+          "description": "CLI tools to generate Kubernetes resources for Akka, Play Framework and Lagom-based applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-09-15T08:19:03Z",
+            "owner": "fsat",
+            "repo": "k8s-cli",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Programs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seed Docker image",
+          "description": "Docker image for cross-platform builds with Seed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-12-11T12:34:23Z",
+            "owner": "tindzk",
+            "repo": "seed",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-native-sbt-docker",
+          "description": "Docker image for Scala Native and sbt.",
+          "children": []
+        }
+      ],
+      "title": "Infrastructure"
+    },
+    {
+      "description": "This work is licenced under a Creative Commons Attribution 4.0 International Licence.",
+      "items": [],
+      "title": "Licence"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:47.646Z",
+    "original_repository": "tindzk/awesome-scala-native",
+    "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
+    "enhanced_repository": "enhansome/enhansome-scala-native",
+    "enhanced_repository_description": null,
+    "title": "Awesome Scala Native with stars"
+  }
+}
