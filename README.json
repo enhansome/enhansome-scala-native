@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-11T09:12:20Z",
+            "last_commit": "2026-08-13T15:20:43Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -337,7 +337,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-12T23:02:04Z",
+            "last_commit": "2026-08-13T17:25:12Z",
             "owner": "etorreborre",
             "repo": "specs2",
             "stars": 734
@@ -1205,7 +1205,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-06T15:06:21Z",
+            "last_commit": "2026-08-13T13:32:53Z",
             "owner": "coursier",
             "repo": "coursier",
             "stars": 2132
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:33:47.646Z",
+    "last_updated": "2026-08-13T18:25:49.168Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
     "enhanced_repository": "enhansome/enhansome-scala-native",
