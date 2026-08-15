@@ -118,7 +118,7 @@
             "last_commit": "2026-08-13T15:20:43Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2777
+            "stars": 2778
           }
         },
         {
@@ -323,7 +323,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T16:12:41Z",
+            "last_commit": "2026-08-15T09:56:07Z",
             "owner": "scalatest",
             "repo": "scalatest",
             "stars": 1167
@@ -733,7 +733,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Scala",
-                "last_commit": "2026-08-12T21:30:07Z",
+                "last_commit": "2026-08-15T10:49:01Z",
                 "owner": "scalapb-json",
                 "repo": "scalapb-argonaut",
                 "stars": 2
@@ -965,7 +965,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T00:49:09Z",
+            "last_commit": "2026-08-15T00:35:40Z",
             "owner": "softwaremill",
             "repo": "sttp",
             "stars": 1503
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:23:51.157Z",
+    "last_updated": "2026-08-15T17:44:47.907Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
     "enhanced_repository": "enhansome/enhansome-scala-native",
