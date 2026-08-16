@@ -166,7 +166,7 @@
             "last_commit": "2026-08-09T18:15:00Z",
             "owner": "typelevel",
             "repo": "cats",
-            "stars": 5451
+            "stars": 5452
           }
         },
         {
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-09T01:21:08Z",
+            "last_commit": "2026-08-16T01:03:21Z",
             "owner": "outr",
             "repo": "reactify",
             "stars": 93
@@ -365,7 +365,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-09T07:29:28Z",
+            "last_commit": "2026-08-16T07:35:17Z",
             "owner": "scalameta",
             "repo": "munit",
             "stars": 472
@@ -965,7 +965,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-15T00:35:40Z",
+            "last_commit": "2026-08-16T01:04:22Z",
             "owner": "softwaremill",
             "repo": "sttp",
             "stars": 1503
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:44:47.907Z",
+    "last_updated": "2026-08-16T17:43:07.528Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
     "enhanced_repository": "enhansome/enhansome-scala-native",
