@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-07-06T11:05:34Z",
+            "last_commit": "2026-08-17T11:05:24Z",
             "owner": "scala-native",
             "repo": "scala-native.g8",
             "stars": 80
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-12T10:50:53Z",
+            "last_commit": "2026-08-17T08:38:34Z",
             "owner": "scalacenter",
             "repo": "bloop",
             "stars": 942
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-13T18:51:16Z",
             "owner": "milessabin",
             "repo": "shapeless",
-            "stars": 3399
+            "stars": 3401
           }
         },
         {
@@ -323,7 +323,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-15T09:56:07Z",
+            "last_commit": "2026-08-17T07:09:42Z",
             "owner": "scalatest",
             "repo": "scalatest",
             "stars": 1167
@@ -365,7 +365,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-16T07:35:17Z",
+            "last_commit": "2026-08-17T04:46:16Z",
             "owner": "scalameta",
             "repo": "munit",
             "stars": 472
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-10T11:27:57Z",
+            "last_commit": "2026-08-17T03:31:38Z",
             "owner": "argonaut-io",
             "repo": "argonaut",
             "stars": 544
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-08-14T11:18:26Z",
             "owner": "coursier",
             "repo": "coursier",
-            "stars": 2132
+            "stars": 2133
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:43:07.528Z",
+    "last_updated": "2026-08-17T17:54:22.497Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
     "enhanced_repository": "enhansome/enhansome-scala-native",
