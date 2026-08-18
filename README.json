@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T15:20:43Z",
+            "last_commit": "2026-08-17T22:14:41Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2778
+            "stars": 2779
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T08:38:34Z",
+            "last_commit": "2026-08-17T18:04:01Z",
             "owner": "scalacenter",
             "repo": "bloop",
             "stars": 942
@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-10T22:30:51Z",
+            "last_commit": "2026-08-17T22:09:41Z",
             "owner": "scalaz",
             "repo": "scalaz",
             "stars": 4673
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-13T18:51:16Z",
             "owner": "milessabin",
             "repo": "shapeless",
-            "stars": 3401
+            "stars": 3402
           }
         },
         {
@@ -813,7 +813,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-11T00:02:23Z",
+            "last_commit": "2026-08-18T15:03:38Z",
             "owner": "ekrich",
             "repo": "sconfig",
             "stars": 135
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:54:22.497Z",
+    "last_updated": "2026-08-18T17:53:17.690Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
     "enhanced_repository": "enhansome/enhansome-scala-native",
