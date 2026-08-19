@@ -37,9 +37,9 @@
 
 ## Build Tools
 
-* [Mill](https://github.com/com-lihaoyi/mill) ⭐ 2,779 | 🐛 254 | 🌐 Scala | 📅 2026-08-17 - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
+* [Mill](https://github.com/com-lihaoyi/mill) ⭐ 2,780 | 🐛 255 | 🌐 Scala | 📅 2026-08-17 - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
 * [Bloop](https://github.com/scalacenter/bloop) ⭐ 942 | 🐛 62 | 🌐 Scala | 📅 2026-08-17 - Scala build server and command-line tool for fast developer workflows.
-* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,391 | 🐛 1,658 | 🌐 Rust | 📅 2026-08-18.
+* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,394 | 🐛 1,658 | 🌐 Rust | 📅 2026-08-19.
 * [sbt](https://www.scala-sbt.org/) - Scala's standard build tool.
 
 ## Functional Programming
@@ -61,7 +61,7 @@
 * [ScalaTest](https://github.com/scalatest/scalatest) ⭐ 1,167 | 🐛 549 | 🌐 Scala | 📅 2026-08-17 - Testing library.
 * [specs2](https://github.com/etorreborre/specs2) ⭐ 734 | 🐛 0 | 🌐 Scala | 📅 2026-08-13 - Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) ⭐ 507 | 🐛 21 | 🌐 Scala | 📅 2026-01-22 - Library for unit tests.
-* [MUnit](https://github.com/scalameta/munit) ⭐ 472 | 🐛 42 | 🌐 Scala | 📅 2026-08-17 - Scala testing library with actionable errors and extensible APIs.
+* [MUnit](https://github.com/scalameta/munit) ⭐ 472 | 🐛 42 | 🌐 Scala | 📅 2026-08-19 - Scala testing library with actionable errors and extensible APIs.
 * [scalaprops](https://github.com/scalaprops/scalaprops) ⭐ 282 | 🐛 10 | 🌐 Scala | 📅 2026-08-07 - Library for property-based testing.
   * [scalaprops-shapeless](https://github.com/scalaprops/scalaprops-shapeless) ⭐ 10 | 🐛 2 | 🌐 Scala | 📅 2026-08-07 - Generation of arbitrary ADT instances.
   * [scalaprops-cross-example](https://github.com/scalaprops/scalaprops-cross-example) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2026-08-07 - Cross-platform example.
@@ -75,8 +75,8 @@
 * [BLAS](https://github.com/ekrich/sblas) ⭐ 37 | 🐛 4 | 🌐 Scala | 📅 2026-08-11 - Bindings for [BLAS](http://www.netlib.org/blas/), a library for Linear Algebra.
 * [Gtk+](https://github.com/jokade/scalanative-gtk) ⭐ 28 | 🐛 1 | 🌐 Scala | 📅 2020-10-11 - Bindings for the [GTK+](https://www.gtk.org/) graphical toolkit.
 * [Cocoa](https://github.com/jokade/scalanative-cocoa) ⭐ 22 | 🐛 7 | 🌐 Scala | 📅 2023-04-11 - Bindings for the macOS graphical framework [Cocoa](https://en.wikipedia.org/wiki/Cocoa_\(API\)).
-* [cmark](https://github.com/sparsetech/cmark-scala) ⭐ 16 | 🐛 0 | 🌐 Scala | 📅 2021-09-14 - Bindings for the [cmark](https://github.com/commonmark/cmark) ⭐ 2,018 | 🐛 76 | 🌐 C | 📅 2026-08-12 CommonMark parser library.
-* [libuv](https://github.com/TimothyKlim/scala-native-libuv) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2017-04-29 - Bindings for [libuv](https://github.com/libuv/libuv) ⭐ 27,116 | 🐛 228 | 🌐 C | 📅 2026-08-17, a library for asynchronous I/O.
+* [cmark](https://github.com/sparsetech/cmark-scala) ⭐ 16 | 🐛 0 | 🌐 Scala | 📅 2021-09-14 - Bindings for the [cmark](https://github.com/commonmark/cmark) ⭐ 2,019 | 🐛 76 | 🌐 C | 📅 2026-08-12 CommonMark parser library.
+* [libuv](https://github.com/TimothyKlim/scala-native-libuv) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2017-04-29 - Bindings for [libuv](https://github.com/libuv/libuv) ⭐ 27,120 | 🐛 229 | 🌐 C | 📅 2026-08-17, a library for asynchronous I/O.
 * [Qt](https://github.com/jokade/scalanative-qt5) ⭐ 9 | 🐛 0 | 🌐 Scala | 📅 2020-01-06 - Bindings for [Qt](https://www.qt.io).
 * [ncurses](https://github.com/edadma/ncurses) ⭐ 9 | 🐛 1 | 🌐 Scala | 📅 2025-02-16 - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
 * [GNU Scientific Library](https://github.com/ruivieira/scala-gsl) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2017-10-18 - Bindings for [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl).
@@ -101,7 +101,7 @@
 * [sconfig](https://github.com/ekrich/sconfig) ⭐ 135 | 🐛 14 | 🌐 Scala | 📅 2026-08-18 - [HOCON](https://github.com/ekrich/sconfig/blob/master/docs/original/HOCON.md) ⭐ 135 | 🐛 14 | 🌐 Scala | 📅 2026-08-18 parser.
 * [Pine](https://github.com/sparsetech/pine) ⭐ 110 | 🐛 9 | 🌐 Scala | 📅 2020-12-10 - HTML/XML parsing, manipulation and rendering.
 * [scala-json](https://github.com/MediaMath/scala-json) ⭐ 63 | 🐛 7 | 🌐 Scala | 📅 2022-01-17 - JSON parser.
-* [toml-scala](https://github.com/sparsetech/toml-scala) ⚠️ Archived - [TOML](https://github.com/toml-lang/toml) ⭐ 20,576 | 🐛 15 | 📅 2026-07-03 parser with codec derivation.
+* [toml-scala](https://github.com/sparsetech/toml-scala) ⚠️ Archived - [TOML](https://github.com/toml-lang/toml) ⭐ 20,578 | 🐛 16 | 📅 2026-07-03 parser with codec derivation.
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) ⭐ 5 | 🐛 1 | 🌐 Scala | 📅 2026-08-07 - Implementation of [MessagePack](https://msgpack.org/), a binary serialisation format.
 * [squiggly](https://github.com/edadma/squiggly) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-05-16 - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
@@ -114,7 +114,7 @@
 
 ## Web Development
 
-* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,503 | 🐛 26 | 🌐 Scala | 📅 2026-08-16 - HTTP Client library.
+* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,503 | 🐛 26 | 🌐 Scala | 📅 2026-08-19 - HTTP Client library.
 * [snunit](https://github.com/lolgab/snunit) ⭐ 148 | 🐛 9 | 🌐 Scala | 📅 2026-06-03 - Scala Native HTTP server based on NGINX Unit.
 * [Trail](https://github.com/sparsetech/trail) ⭐ 82 | 🐛 1 | 🌐 Scala | 📅 2022-05-04 - Routing library.
 
@@ -126,7 +126,7 @@
 ## Logging
 
 * [scribe](https://github.com/outr/scribe) ⭐ 552 | 🐛 26 | 🌐 Scala | 📅 2026-08-13 - Fast and simple logging library.
-* [slogging](https://github.com/jokade/slogging) ⭐ 52 | 🐛 13 | 🌐 Scala | 📅 2020-09-17 - [Typesafe-logging](https://github.com/lightbend/scala-logging) ⭐ 926 | 🐛 31 | 🌐 Scala | 📅 2026-07-31 and [SLF4J](https://www.slf4j.org/)-compatible logging library based on macros.
+* [slogging](https://github.com/jokade/slogging) ⭐ 52 | 🐛 13 | 🌐 Scala | 📅 2020-09-17 - [Typesafe-logging](https://github.com/lightbend/scala-logging) ⭐ 925 | 🐛 31 | 🌐 Scala | 📅 2026-07-31 and [SLF4J](https://www.slf4j.org/)-compatible logging library based on macros.
 
 ## Console
 
@@ -160,4 +160,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

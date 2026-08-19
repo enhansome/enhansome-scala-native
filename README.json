@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61627949,
             "language": "Scala",
             "last_commit": "2026-08-17T11:05:24Z",
             "owner": "scala-native",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103360997,
             "language": "Scala",
             "last_commit": "2024-07-16T16:36:38Z",
             "owner": "lihaoyi",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87952270,
             "language": "Scala",
             "last_commit": "2018-06-19T18:46:27Z",
             "owner": "MasseGuillaume",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105521452,
             "language": "Scala",
             "last_commit": "2018-03-24T15:12:56Z",
             "owner": "GnaneshKunal",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403857930,
             "language": "Scala",
             "last_commit": "2023-06-05T06:34:01Z",
             "owner": "i10416",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91817911,
             "language": "CMake",
             "last_commit": "2017-05-19T15:29:50Z",
             "owner": "nadavwr",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193140342,
             "language": "Scala",
             "last_commit": "2019-06-23T10:55:27Z",
             "owner": "jokade",
@@ -105,7 +112,7 @@
       "title": "Tutorials and Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107214500,
             "language": "Scala",
             "last_commit": "2026-08-17T22:14:41Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2779
+            "stars": 2780
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110334159,
             "language": "Scala",
             "last_commit": "2026-08-17T18:04:01Z",
             "owner": "scalacenter",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165534369,
             "language": "Scala",
             "last_commit": "2020-12-11T12:34:23Z",
             "owner": "tindzk",
@@ -153,7 +163,7 @@
       "title": "Build Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29986727,
             "language": "Scala",
             "last_commit": "2026-08-09T18:15:00Z",
             "owner": "typelevel",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474633,
             "language": "Scala",
             "last_commit": "2026-08-17T22:09:41Z",
             "owner": "scalaz",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3006066,
             "language": "Scala",
             "last_commit": "2026-08-13T18:51:16Z",
             "owner": "milessabin",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92164848,
             "language": "Scala",
             "last_commit": "2026-08-13T01:29:34Z",
             "owner": "scalalandio",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17484323,
             "language": "Scala",
             "last_commit": "2026-08-12T16:26:44Z",
             "owner": "typelevel",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31462079,
             "language": "Scala",
             "last_commit": "2026-08-11T00:12:35Z",
             "owner": "softwaremill",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50425465,
             "language": "Scala",
             "last_commit": "2025-10-15T13:46:58Z",
             "owner": "com-lihaoyi",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91073056,
             "language": "Scala",
             "last_commit": "2026-05-28T09:20:16Z",
             "owner": "com-lihaoyi",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73644305,
             "language": "Scala",
             "last_commit": "2026-08-16T01:03:21Z",
             "owner": "outr",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13829240,
             "language": "Scala",
             "last_commit": "2026-08-07T03:40:16Z",
             "owner": "xuwei-k",
@@ -299,7 +319,7 @@
       "title": "Functional Programming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1804055,
             "language": "Scala",
             "last_commit": "2026-08-10T20:33:03Z",
             "owner": "typelevel",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9283927,
             "language": "Scala",
             "last_commit": "2026-08-17T07:09:42Z",
             "owner": "scalatest",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 884800,
             "language": "Scala",
             "last_commit": "2026-08-13T17:25:12Z",
             "owner": "etorreborre",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16268021,
             "language": "Scala",
             "last_commit": "2026-01-22T23:21:51Z",
             "owner": "com-lihaoyi",
@@ -364,8 +388,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231479366,
             "language": "Scala",
-            "last_commit": "2026-08-17T04:46:16Z",
+            "last_commit": "2026-08-19T05:29:37Z",
             "owner": "scalameta",
             "repo": "munit",
             "stars": 472
@@ -383,6 +408,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 78318510,
                 "language": "Scala",
                 "last_commit": "2026-08-07T03:40:20Z",
                 "owner": "scalaprops",
@@ -397,6 +423,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 95331676,
                 "language": "Scala",
                 "last_commit": "2026-08-07T03:44:04Z",
                 "owner": "scalaprops",
@@ -407,6 +434,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 35075268,
             "language": "Scala",
             "last_commit": "2026-08-07T03:43:05Z",
             "owner": "scalaprops",
@@ -421,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28064293,
             "language": "Scala",
             "last_commit": "2026-08-10T10:16:26Z",
             "owner": "monix",
@@ -435,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89606038,
             "language": "Scala",
             "last_commit": "2018-03-10T23:32:18Z",
             "owner": "nadavwr",
@@ -446,7 +476,7 @@
       "title": "Unit Tests"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -455,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103572043,
             "language": "Scala",
             "last_commit": "2024-07-18T16:14:34Z",
             "owner": "lolgab",
@@ -469,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85012583,
             "language": "Scala",
             "last_commit": "2022-08-02T14:25:12Z",
             "owner": "regb",
@@ -483,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97343209,
             "language": "Scala",
             "last_commit": "2026-08-11T00:01:08Z",
             "owner": "ekrich",
@@ -497,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116414312,
             "language": "Scala",
             "last_commit": "2020-10-11T16:09:39Z",
             "owner": "jokade",
@@ -511,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99728632,
             "language": "Scala",
             "last_commit": "2023-04-11T23:02:08Z",
             "owner": "jokade",
@@ -525,6 +560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91209453,
             "language": "Scala",
             "last_commit": "2021-09-14T08:19:11Z",
             "owner": "sparsetech",
@@ -539,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89623666,
             "language": "Scala",
             "last_commit": "2017-04-29T17:12:58Z",
             "owner": "timothyklim",
@@ -553,6 +590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192405881,
             "language": "Scala",
             "last_commit": "2020-01-06T20:13:23Z",
             "owner": "jokade",
@@ -567,6 +605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396379135,
             "language": "Scala",
             "last_commit": "2025-02-16T21:59:54Z",
             "owner": "edadma",
@@ -581,6 +620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93514252,
             "language": "Scala",
             "last_commit": "2017-10-18T20:53:18Z",
             "owner": "ruivieira",
@@ -595,6 +635,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 163604726,
             "language": "Scala",
             "last_commit": "2019-06-22T06:11:41Z",
             "owner": "jokade",
@@ -609,6 +650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193321835,
             "language": "Scala",
             "last_commit": "2019-10-04T08:23:04Z",
             "owner": "jokade",
@@ -623,6 +665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403926965,
             "language": "C",
             "last_commit": "2026-07-09T14:10:28Z",
             "owner": "edadma",
@@ -637,6 +680,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400892023,
             "language": "Scala",
             "last_commit": "2021-09-05T11:24:40Z",
             "owner": "edadma",
@@ -651,6 +695,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402235168,
             "language": "Scala",
             "last_commit": "2023-01-07T17:33:44Z",
             "owner": "edadma",
@@ -665,6 +710,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403339345,
             "language": "C",
             "last_commit": "2021-09-07T11:16:59Z",
             "owner": "edadma",
@@ -679,6 +725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395614120,
             "language": "Scala",
             "last_commit": "2026-02-18T17:47:02Z",
             "owner": "edadma",
@@ -693,6 +740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405736135,
             "language": "Scala",
             "last_commit": "2021-09-18T20:29:03Z",
             "owner": "edadma",
@@ -707,6 +755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405911277,
             "language": "Scala",
             "last_commit": "2021-10-04T22:35:37Z",
             "owner": "edadma",
@@ -718,7 +767,7 @@
       "title": "Bindings"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -732,6 +781,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 116074755,
                 "language": "Scala",
                 "last_commit": "2026-08-15T10:49:01Z",
                 "owner": "scalapb-json",
@@ -742,6 +792,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 24701619,
             "language": "Scala",
             "last_commit": "2026-08-07T23:19:44Z",
             "owner": "scalapb",
@@ -756,6 +807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27296168,
             "language": "Scala",
             "last_commit": "2026-01-14T11:43:59Z",
             "owner": "com-lihaoyi",
@@ -770,6 +822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6497465,
             "language": "Scala",
             "last_commit": "2025-07-11T01:21:23Z",
             "owner": "com-lihaoyi",
@@ -784,6 +837,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19058393,
             "language": "Scala",
             "last_commit": "2026-02-27T01:12:20Z",
             "owner": "com-lihaoyi",
@@ -798,6 +852,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7078381,
             "language": "Scala",
             "last_commit": "2026-08-17T03:31:38Z",
             "owner": "argonaut-io",
@@ -812,6 +867,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160543007,
             "language": "Scala",
             "last_commit": "2026-08-18T15:03:38Z",
             "owner": "ekrich",
@@ -826,6 +882,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40020814,
             "language": "Scala",
             "last_commit": "2020-12-10T15:32:52Z",
             "owner": "sparsetech",
@@ -840,6 +897,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31541932,
             "language": "Scala",
             "last_commit": "2022-01-17T16:03:25Z",
             "owner": "MediaMath",
@@ -854,6 +912,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109728634,
             "language": "Scala",
             "last_commit": "2024-10-24T17:24:06Z",
             "owner": "sparsetech",
@@ -868,6 +927,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28781590,
             "language": "Scala",
             "last_commit": "2026-08-07T03:44:10Z",
             "owner": "msgpack4z",
@@ -882,6 +942,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409010263,
             "language": "Scala",
             "last_commit": "2026-05-16T20:33:42Z",
             "owner": "edadma",
@@ -893,7 +954,7 @@
       "title": "File Formats and Parsers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -902,6 +963,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149721810,
             "language": "Scala",
             "last_commit": "2026-08-09T20:18:16Z",
             "owner": "typelevel",
@@ -916,6 +978,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180756362,
             "language": "Scala",
             "last_commit": "2024-06-05T07:51:30Z",
             "owner": "david-bouyssie",
@@ -930,6 +993,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 943860350,
             "language": "Scala",
             "last_commit": "2026-06-19T07:48:34Z",
             "owner": "lolgab",
@@ -944,6 +1008,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267615937,
             "language": "Scala",
             "last_commit": "2021-10-26T07:37:59Z",
             "owner": "david-bouyssie",
@@ -955,7 +1020,7 @@
       "title": "Databases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -964,8 +1029,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95900154,
             "language": "Scala",
-            "last_commit": "2026-08-16T01:04:22Z",
+            "last_commit": "2026-08-19T00:31:46Z",
             "owner": "softwaremill",
             "repo": "sttp",
             "stars": 1503
@@ -978,6 +1044,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277323123,
             "language": "Scala",
             "last_commit": "2026-06-03T19:44:51Z",
             "owner": "lolgab",
@@ -992,6 +1059,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47774201,
             "language": "Scala",
             "last_commit": "2022-05-04T08:26:56Z",
             "owner": "sparsetech",
@@ -1003,7 +1071,7 @@
       "title": "Web Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1012,6 +1080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220154171,
             "language": "Scala",
             "last_commit": "2026-04-10T12:41:49Z",
             "owner": "com-lihaoyi",
@@ -1026,6 +1095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182873478,
             "language": "Scala",
             "last_commit": "2024-06-18T13:51:56Z",
             "owner": "scala-native",
@@ -1037,7 +1107,7 @@
       "title": "Concurrency"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1046,6 +1116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50439358,
             "language": "Scala",
             "last_commit": "2026-08-13T00:24:45Z",
             "owner": "outr",
@@ -1060,6 +1131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23473265,
             "language": "Scala",
             "last_commit": "2020-09-17T15:39:59Z",
             "owner": "jokade",
@@ -1071,7 +1143,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1080,6 +1152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3757395,
             "language": "Scala",
             "last_commit": "2026-08-12T04:06:51Z",
             "owner": "scopt",
@@ -1094,6 +1167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3801274,
             "language": "Scala",
             "last_commit": "2025-11-30T06:59:37Z",
             "owner": "scallop",
@@ -1108,6 +1182,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71673334,
             "language": "Scala",
             "last_commit": "2026-04-08T03:57:53Z",
             "owner": "bkirwi",
@@ -1122,6 +1197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59707695,
             "language": "Scala",
             "last_commit": "2025-10-15T13:46:29Z",
             "owner": "com-lihaoyi",
@@ -1136,6 +1212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312781000,
             "language": "Scala",
             "last_commit": "2026-01-14T12:14:06Z",
             "owner": "com-lihaoyi",
@@ -1150,6 +1227,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127682047,
             "language": "Scala",
             "last_commit": "2026-08-07T03:40:30Z",
             "owner": "xuwei-k",
@@ -1161,7 +1239,7 @@
       "title": "Console"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1170,6 +1248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69409393,
             "language": "Scala",
             "last_commit": "2018-04-27T01:40:01Z",
             "owner": "Team846",
@@ -1184,6 +1263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116097850,
             "language": "Scala",
             "last_commit": "2018-03-28T03:11:50Z",
             "owner": "Team846",
@@ -1195,7 +1275,7 @@
       "title": "Robotics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1204,6 +1284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37548601,
             "language": "Scala",
             "last_commit": "2026-08-14T11:18:26Z",
             "owner": "coursier",
@@ -1218,6 +1299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59469046,
             "language": "Scala",
             "last_commit": "2018-09-26T18:25:51Z",
             "owner": "Milyardo",
@@ -1232,6 +1314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140446592,
             "language": "Scala",
             "last_commit": "2020-10-27T21:22:59Z",
             "owner": "smithandrewl",
@@ -1246,6 +1329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102564263,
             "language": "Scala",
             "last_commit": "2017-09-15T08:19:03Z",
             "owner": "fsat",
@@ -1257,7 +1341,7 @@
       "title": "Programs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1266,31 +1350,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165534369,
             "language": "Scala",
             "last_commit": "2020-12-11T12:34:23Z",
             "owner": "tindzk",
             "repo": "seed",
             "stars": 238
           }
-        },
-        {
-          "node_type": "item",
-          "title": "scala-native-sbt-docker",
-          "description": "Docker image for Scala Native and sbt.",
-          "children": []
         }
       ],
       "title": "Infrastructure"
-    },
-    {
-      "description": "This work is licenced under a Creative Commons Attribution 4.0 International Licence.",
-      "items": [],
-      "title": "Licence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:53:17.690Z",
+    "last_updated": "2026-08-19T12:52:17.012Z",
     "original_repository": "tindzk/awesome-scala-native",
+    "original_repository_id": 115834435,
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
     "enhanced_repository": "enhansome/enhansome-scala-native",
     "enhanced_repository_description": null,
