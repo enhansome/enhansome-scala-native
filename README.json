@@ -126,7 +126,7 @@
             "last_commit": "2026-08-22T17:37:30Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2780
+            "stars": 2781
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-21T17:08:29Z",
             "owner": "scalacenter",
             "repo": "bloop",
-            "stars": 941
+            "stars": 942
           }
         },
         {
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 3006066,
             "language": "Scala",
-            "last_commit": "2026-08-13T18:51:16Z",
+            "last_commit": "2026-08-23T08:01:53Z",
             "owner": "milessabin",
             "repo": "shapeless",
             "stars": 3402
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 92164848,
             "language": "Scala",
-            "last_commit": "2026-08-13T01:29:34Z",
+            "last_commit": "2026-08-23T05:23:27Z",
             "owner": "scalalandio",
             "repo": "chimney",
             "stars": 1255
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 73644305,
             "language": "Scala",
-            "last_commit": "2026-08-16T01:03:21Z",
+            "last_commit": "2026-08-23T01:05:06Z",
             "owner": "outr",
             "repo": "reactify",
             "stars": 93
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 1804055,
             "language": "Scala",
-            "last_commit": "2026-08-22T17:43:45Z",
+            "last_commit": "2026-08-22T17:44:49Z",
             "owner": "typelevel",
             "repo": "scalacheck",
             "stars": 1964
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 9283927,
             "language": "Scala",
-            "last_commit": "2026-08-22T11:14:07Z",
+            "last_commit": "2026-08-23T13:17:41Z",
             "owner": "scalatest",
             "repo": "scalatest",
             "stars": 1167
@@ -869,7 +869,7 @@
             "archived": false,
             "id": 160543007,
             "language": "Scala",
-            "last_commit": "2026-08-21T18:17:46Z",
+            "last_commit": "2026-08-23T01:41:48Z",
             "owner": "ekrich",
             "repo": "sconfig",
             "stars": 135
@@ -1157,7 +1157,7 @@
             "last_commit": "2026-08-12T04:06:51Z",
             "owner": "scopt",
             "repo": "scopt",
-            "stars": 1444
+            "stars": 1443
           }
         },
         {
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:44:37.352Z",
+    "last_updated": "2026-08-23T17:44:28.365Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_id": 115834435,
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
