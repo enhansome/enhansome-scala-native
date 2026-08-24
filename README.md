@@ -39,13 +39,13 @@
 
 * [Mill](https://github.com/com-lihaoyi/mill) ⭐ 2,781 | 🐛 259 | 🌐 Scala | 📅 2026-08-24 - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
 * [Bloop](https://github.com/scalacenter/bloop) ⭐ 942 | 🐛 62 | 🌐 Scala | 📅 2026-08-24 - Scala build server and command-line tool for fast developer workflows.
-* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,421 | 🐛 1,659 | 🌐 Rust | 📅 2026-08-24.
+* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,422 | 🐛 1,660 | 🌐 Rust | 📅 2026-08-24.
 * [sbt](https://www.scala-sbt.org/) - Scala's standard build tool.
 
 ## Functional Programming
 
 * [Cats](https://github.com/typelevel/cats) ⭐ 5,455 | 🐛 281 | 🌐 Scala | 📅 2026-08-21 - Abstractions for functional programming in Scala.
-* [scalaz](https://github.com/scalaz/scalaz) ⭐ 4,673 | 🐛 154 | 🌐 Scala | 📅 2026-08-21 - Type classes and instances for data structures.
+* [scalaz](https://github.com/scalaz/scalaz) ⭐ 4,673 | 🐛 155 | 🌐 Scala | 📅 2026-08-24 - Type classes and instances for data structures.
 * [Shapeless](https://github.com/milessabin/shapeless) ⭐ 3,402 | 🐛 29 | 🌐 Scala | 📅 2026-08-23 - Library for generic programming.
 * [chimney](https://github.com/scalalandio/chimney) ⭐ 1,255 | 🐛 8 | 🌐 Scala | 📅 2026-08-23 - Boilerplate-free data transformations.
 * [Squants](https://github.com/typelevel/squants) ⭐ 930 | 🐛 65 | 🌐 Scala | 📅 2026-08-12 - DSL for quantities, units of measure and dimensional analysis.
@@ -59,7 +59,7 @@
 
 * [ScalaCheck](https://github.com/typelevel/scalacheck) ⭐ 1,964 | 🐛 65 | 🌐 Scala | 📅 2026-08-22 - Property-based testing for Scala.
 * [ScalaTest](https://github.com/scalatest/scalatest) ⭐ 1,167 | 🐛 551 | 🌐 Scala | 📅 2026-08-24 - Testing library.
-* [specs2](https://github.com/etorreborre/specs2) ⭐ 734 | 🐛 4 | 🌐 Scala | 📅 2026-08-24 - Software Specifications for Scala.
+* [specs2](https://github.com/etorreborre/specs2) ⭐ 734 | 🐛 3 | 🌐 Scala | 📅 2026-08-24 - Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) ⭐ 507 | 🐛 21 | 🌐 Scala | 📅 2026-01-22 - Library for unit tests.
 * [MUnit](https://github.com/scalameta/munit) ⭐ 472 | 🐛 40 | 🌐 Scala | 📅 2026-08-21 - Scala testing library with actionable errors and extensible APIs.
 * [scalaprops](https://github.com/scalaprops/scalaprops) ⭐ 282 | 🐛 10 | 🌐 Scala | 📅 2026-08-21 - Library for property-based testing.
@@ -114,7 +114,7 @@
 
 ## Web Development
 
-* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,503 | 🐛 26 | 🌐 Scala | 📅 2026-08-24 - HTTP Client library.
+* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,503 | 🐛 27 | 🌐 Scala | 📅 2026-08-24 - HTTP Client library.
 * [snunit](https://github.com/lolgab/snunit) ⭐ 148 | 🐛 9 | 🌐 Scala | 📅 2026-06-03 - Scala Native HTTP server based on NGINX Unit.
 * [Trail](https://github.com/sparsetech/trail) ⭐ 82 | 🐛 1 | 🌐 Scala | 📅 2022-05-04 - Routing library.
 
