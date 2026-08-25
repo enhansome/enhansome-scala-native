@@ -126,7 +126,7 @@
             "last_commit": "2026-08-24T13:58:26Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2781
+            "stars": 2782
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 474633,
             "language": "Scala",
-            "last_commit": "2026-08-24T15:42:45Z",
+            "last_commit": "2026-08-24T22:08:56Z",
             "owner": "scalaz",
             "repo": "scalaz",
             "stars": 4673
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 9283927,
             "language": "Scala",
-            "last_commit": "2026-08-24T09:15:52Z",
+            "last_commit": "2026-08-25T03:45:19Z",
             "owner": "scalatest",
             "repo": "scalatest",
             "stars": 1167
@@ -1031,7 +1031,7 @@
             "archived": false,
             "id": 95900154,
             "language": "Scala",
-            "last_commit": "2026-08-24T00:53:26Z",
+            "last_commit": "2026-08-25T00:24:18Z",
             "owner": "softwaremill",
             "repo": "sttp",
             "stars": 1503
@@ -1118,7 +1118,7 @@
             "archived": false,
             "id": 50439358,
             "language": "Scala",
-            "last_commit": "2026-08-21T01:12:04Z",
+            "last_commit": "2026-08-25T00:13:51Z",
             "owner": "outr",
             "repo": "scribe",
             "stars": 552
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:56:53.669Z",
+    "last_updated": "2026-08-25T06:24:07.679Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_id": 115834435,
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
