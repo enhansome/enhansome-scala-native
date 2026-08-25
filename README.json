@@ -360,7 +360,7 @@
             "archived": false,
             "id": 884800,
             "language": "Scala",
-            "last_commit": "2026-08-24T17:09:54Z",
+            "last_commit": "2026-08-25T12:05:39Z",
             "owner": "etorreborre",
             "repo": "specs2",
             "stars": 734
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 231479366,
             "language": "Scala",
-            "last_commit": "2026-08-21T18:32:02Z",
+            "last_commit": "2026-08-25T11:41:52Z",
             "owner": "scalameta",
             "repo": "munit",
             "stars": 472
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:07.679Z",
+    "last_updated": "2026-08-25T17:54:55.905Z",
     "original_repository": "tindzk/awesome-scala-native",
     "original_repository_id": 115834435,
     "original_repository_sha": "7587033504944347d2d4a35c2b3eaf02dd438d7b",
