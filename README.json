@@ -123,7 +123,7 @@
             "archived": false,
             "id": 107214500,
             "language": "Scala",
-            "last_commit": "2026-08-24T13:58:26Z",
+            "last_commit": "2026-08-27T21:35:51Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
             "stars": 2783
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 1804055,
             "language": "Scala",
-            "last_commit": "2026-08-22T17:44:49Z",
+            "last_commit": "2026-08-27T23:03:57Z",
             "owner": "typelevel",
             "repo": "scalacheck",
             "stars": 1964
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 9283927,
             "language": "Scala",
-            "last_commit": "2026-08-27T00:59:02Z",
+            "last_commit": "2026-08-28T01:17:07Z",
             "owner": "scalatest",
             "repo": "scalatest",
             "stars": 1167
@@ -794,7 +794,7 @@
             "archived": false,
             "id": 24701619,
             "language": "Scala",
-            "last_commit": "2026-08-21T23:02:36Z",
+            "last_commit": "2026-08-28T00:28:52Z",
             "owner": "scalapb",
             "repo": "ScalaPB",
             "stars": 1339
@@ -854,7 +854,7 @@
             "archived": false,
             "id": 7078381,
             "language": "Scala",
-            "last_commit": "2026-08-22T02:20:38Z",
+            "last_commit": "2026-08-27T22:41:36Z",
             "owner": "argonaut-io",
             "repo": "argonaut",
             "stars": 544
@@ -965,7 +965,7 @@
             "archived": false,
             "id": 149721810,
             "language": "Scala",
-            "last_commit": "2026-08-24T04:23:51Z",
+            "last_commit": "2026-08-27T23:12:21Z",
             "owner": "typelevel",
             "repo": "skunk",
             "stars": 1665
@@ -1286,7 +1286,7 @@
             "archived": false,
             "id": 37548601,
             "language": "Scala",
-            "last_commit": "2026-08-27T11:46:16Z",
+            "last_commit": "2026-08-27T12:55:04Z",
             "owner": "coursier",
             "repo": "coursier",
             "stars": 2135
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:26.024Z",
+    "last_updated": "2026-08-28T01:35:32.475Z",
     "original_repository_info": {
       "archived": false,
       "id": 115834435,
