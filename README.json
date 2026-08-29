@@ -16,7 +16,8 @@
             "owner": "scala-native",
             "repo": "scala-native.g8",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "lihaoyi",
             "repo": "scala-native-example-app",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "MasseGuillaume",
             "repo": "hands-on-scala-native",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "GnaneshKunal",
             "repo": "scala-native-starter",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "i10416",
             "repo": "prettytable-native",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "nadavwr",
             "repo": "scala-native-sbt-jni-example",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "jokade",
             "repo": "scalanative-gtk-seed.g8",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Tutorials and Examples"
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 107214500,
             "language": "Scala",
-            "last_commit": "2026-08-27T21:35:51Z",
+            "last_commit": "2026-08-28T07:48:10Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
             "stars": 2783
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "scalacenter",
             "repo": "bloop",
             "stars": 942
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "tindzk",
             "repo": "seed",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Build Tools"
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 29986727,
             "language": "Scala",
-            "last_commit": "2026-08-21T12:13:32Z",
+            "last_commit": "2026-08-28T14:57:06Z",
             "owner": "typelevel",
             "repo": "cats",
-            "stars": 5456
-          }
+            "stars": 5458
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -189,11 +200,12 @@
             "archived": false,
             "id": 474633,
             "language": "Scala",
-            "last_commit": "2026-08-27T11:25:17Z",
+            "last_commit": "2026-08-28T21:59:07Z",
             "owner": "scalaz",
             "repo": "scalaz",
             "stars": 4673
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "milessabin",
             "repo": "shapeless",
             "stars": 3402
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "scalalandio",
             "repo": "chimney",
             "stars": 1255
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -234,11 +248,12 @@
             "archived": false,
             "id": 17484323,
             "language": "Scala",
-            "last_commit": "2026-08-12T16:26:44Z",
+            "last_commit": "2026-08-28T03:20:17Z",
             "owner": "typelevel",
             "repo": "squants",
-            "stars": 930
-          }
+            "stars": 931
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "softwaremill",
             "repo": "quicklens",
             "stars": 852
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "com-lihaoyi",
             "repo": "sourcecode",
             "stars": 543
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "com-lihaoyi",
             "repo": "PPrint",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "outr",
             "repo": "reactify",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -309,11 +328,12 @@
             "archived": false,
             "id": 13829240,
             "language": "Scala",
-            "last_commit": "2026-08-21T11:40:59Z",
+            "last_commit": "2026-08-28T04:14:32Z",
             "owner": "xuwei-k",
             "repo": "nobox",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Functional Programming"
@@ -330,11 +350,12 @@
             "archived": false,
             "id": 1804055,
             "language": "Scala",
-            "last_commit": "2026-08-27T23:03:57Z",
+            "last_commit": "2026-08-28T03:19:18Z",
             "owner": "typelevel",
             "repo": "scalacheck",
             "stars": 1964
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -345,11 +366,12 @@
             "archived": false,
             "id": 9283927,
             "language": "Scala",
-            "last_commit": "2026-08-28T01:17:07Z",
+            "last_commit": "2026-08-28T07:16:27Z",
             "owner": "scalatest",
             "repo": "scalatest",
             "stars": 1167
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "etorreborre",
             "repo": "specs2",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "com-lihaoyi",
             "repo": "utest",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "scalameta",
             "repo": "munit",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -410,11 +435,12 @@
                 "archived": false,
                 "id": 78318510,
                 "language": "Scala",
-                "last_commit": "2026-08-21T12:13:04Z",
+                "last_commit": "2026-08-28T04:05:38Z",
                 "owner": "scalaprops",
                 "repo": "scalaprops-shapeless",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:05:09.913Z"
             },
             {
               "node_type": "item",
@@ -425,22 +451,24 @@
                 "archived": false,
                 "id": 95331676,
                 "language": "Scala",
-                "last_commit": "2026-08-21T11:19:57Z",
+                "last_commit": "2026-08-28T04:10:51Z",
                 "owner": "scalaprops",
                 "repo": "scalaprops-cross-example",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:05:09.913Z"
             }
           ],
           "repo_info": {
             "archived": false,
             "id": 35075268,
             "language": "Scala",
-            "last_commit": "2026-08-21T11:41:25Z",
+            "last_commit": "2026-08-29T00:51:51Z",
             "owner": "scalaprops",
             "repo": "scalaprops",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -455,7 +483,8 @@
             "owner": "monix",
             "repo": "minitest",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -470,7 +499,8 @@
             "owner": "nadavwr",
             "repo": "makeshift",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Unit Tests"
@@ -491,7 +521,8 @@
             "owner": "lolgab",
             "repo": "scalaui",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -505,8 +536,9 @@
             "last_commit": "2022-08-02T14:25:12Z",
             "owner": "regb",
             "repo": "scalanative-graphics-bindings",
-            "stars": 46
-          }
+            "stars": 45
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -517,11 +549,12 @@
             "archived": false,
             "id": 97343209,
             "language": "Scala",
-            "last_commit": "2026-08-22T01:06:43Z",
+            "last_commit": "2026-08-28T22:20:21Z",
             "owner": "ekrich",
             "repo": "sblas",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -536,7 +569,8 @@
             "owner": "jokade",
             "repo": "scalanative-gtk",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -551,7 +585,8 @@
             "owner": "jokade",
             "repo": "scalanative-cocoa",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -566,7 +601,8 @@
             "owner": "sparsetech",
             "repo": "cmark-scala",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -581,7 +617,8 @@
             "owner": "timothyklim",
             "repo": "scala-native-libuv",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -596,7 +633,8 @@
             "owner": "jokade",
             "repo": "scalanative-qt5",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -611,7 +649,8 @@
             "owner": "edadma",
             "repo": "ncurses",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -626,7 +665,8 @@
             "owner": "ruivieira",
             "repo": "scala-gsl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -641,7 +681,8 @@
             "owner": "jokade",
             "repo": "scalanative-libsoup",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -656,7 +697,8 @@
             "owner": "jokade",
             "repo": "scalanative-gstreamer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -671,7 +713,8 @@
             "owner": "edadma",
             "repo": "libcairo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -686,7 +729,8 @@
             "owner": "edadma",
             "repo": "libsndfile",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -701,7 +745,8 @@
             "owner": "edadma",
             "repo": "iup",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -716,7 +761,8 @@
             "owner": "edadma",
             "repo": "libpng",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -731,7 +777,8 @@
             "owner": "edadma",
             "repo": "readline",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -746,7 +793,8 @@
             "owner": "edadma",
             "repo": "cairo-xlib",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -761,7 +809,8 @@
             "owner": "edadma",
             "repo": "libyaml",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Bindings"
@@ -787,7 +836,8 @@
                 "owner": "scalapb-json",
                 "repo": "scalapb-argonaut",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:05:09.913Z"
             }
           ],
           "repo_info": {
@@ -798,7 +848,8 @@
             "owner": "scalapb",
             "repo": "ScalaPB",
             "stars": 1339
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -813,7 +864,8 @@
             "owner": "com-lihaoyi",
             "repo": "fastparse",
             "stars": 1135
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -828,7 +880,8 @@
             "owner": "com-lihaoyi",
             "repo": "scalatags",
             "stars": 773
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -843,7 +896,8 @@
             "owner": "com-lihaoyi",
             "repo": "upickle",
             "stars": 766
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -854,11 +908,12 @@
             "archived": false,
             "id": 7078381,
             "language": "Scala",
-            "last_commit": "2026-08-27T22:41:36Z",
+            "last_commit": "2026-08-28T04:15:06Z",
             "owner": "argonaut-io",
             "repo": "argonaut",
             "stars": 544
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -869,11 +924,12 @@
             "archived": false,
             "id": 160543007,
             "language": "Scala",
-            "last_commit": "2026-08-26T17:59:14Z",
+            "last_commit": "2026-08-28T23:54:04Z",
             "owner": "ekrich",
             "repo": "sconfig",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -888,7 +944,8 @@
             "owner": "sparsetech",
             "repo": "pine",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -903,7 +960,8 @@
             "owner": "MediaMath",
             "repo": "scala-json",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -918,7 +976,8 @@
             "owner": "sparsetech",
             "repo": "toml-scala",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -929,11 +988,12 @@
             "archived": false,
             "id": 28781590,
             "language": "Scala",
-            "last_commit": "2026-08-21T11:41:34Z",
+            "last_commit": "2026-08-28T04:11:23Z",
             "owner": "msgpack4z",
             "repo": "msgpack4z-native",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -948,7 +1008,8 @@
             "owner": "edadma",
             "repo": "squiggly",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "File Formats and Parsers"
@@ -969,7 +1030,8 @@
             "owner": "typelevel",
             "repo": "skunk",
             "stars": 1665
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -984,7 +1046,8 @@
             "owner": "david-bouyssie",
             "repo": "sqlite4s",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -999,7 +1062,8 @@
             "owner": "lolgab",
             "repo": "scala-native-jdbc",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1014,7 +1078,8 @@
             "owner": "david-bouyssie",
             "repo": "libpq4s",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Databases"
@@ -1031,11 +1096,12 @@
             "archived": false,
             "id": 95900154,
             "language": "Scala",
-            "last_commit": "2026-08-25T00:24:18Z",
+            "last_commit": "2026-08-28T03:28:25Z",
             "owner": "softwaremill",
             "repo": "sttp",
             "stars": 1502
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1050,7 +1116,8 @@
             "owner": "lolgab",
             "repo": "snunit",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1065,7 +1132,8 @@
             "owner": "sparsetech",
             "repo": "trail",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Web Development"
@@ -1086,7 +1154,8 @@
             "owner": "com-lihaoyi",
             "repo": "castor",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1101,7 +1170,8 @@
             "owner": "scala-native",
             "repo": "scala-native-loop",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Concurrency"
@@ -1122,7 +1192,8 @@
             "owner": "outr",
             "repo": "scribe",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1137,7 +1208,8 @@
             "owner": "jokade",
             "repo": "slogging",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Logging"
@@ -1158,7 +1230,8 @@
             "owner": "scopt",
             "repo": "scopt",
             "stars": 1443
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1173,7 +1246,8 @@
             "owner": "scallop",
             "repo": "scallop",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1188,7 +1262,8 @@
             "owner": "bkirwi",
             "repo": "decline",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1203,7 +1278,8 @@
             "owner": "com-lihaoyi",
             "repo": "fansi",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1218,7 +1294,8 @@
             "owner": "com-lihaoyi",
             "repo": "mainargs",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1229,11 +1306,12 @@
             "archived": false,
             "id": 127682047,
             "language": "Scala",
-            "last_commit": "2026-08-21T11:40:26Z",
+            "last_commit": "2026-08-28T04:05:31Z",
             "owner": "xuwei-k",
             "repo": "optparse-applicative",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Console"
@@ -1254,7 +1332,8 @@
             "owner": "Team846",
             "repo": "potassium",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1269,7 +1348,8 @@
             "owner": "Team846",
             "repo": "scala-native-wpilib",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Robotics"
@@ -1286,11 +1366,12 @@
             "archived": false,
             "id": 37548601,
             "language": "Scala",
-            "last_commit": "2026-08-27T12:55:04Z",
+            "last_commit": "2026-08-28T20:35:10Z",
             "owner": "coursier",
             "repo": "coursier",
             "stars": 2135
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1305,7 +1386,8 @@
             "owner": "Milyardo",
             "repo": "sglgears",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1320,7 +1402,8 @@
             "owner": "smithandrewl",
             "repo": "fractals",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         },
         {
           "node_type": "item",
@@ -1335,7 +1418,8 @@
             "owner": "fsat",
             "repo": "k8s-cli",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Programs"
@@ -1356,14 +1440,15 @@
             "owner": "tindzk",
             "repo": "seed",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-29T01:05:09.913Z"
         }
       ],
       "title": "Infrastructure"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:35:32.475Z",
+    "last_updated": "2026-08-29T01:05:09.913Z",
     "original_repository_info": {
       "archived": false,
       "id": 115834435,
