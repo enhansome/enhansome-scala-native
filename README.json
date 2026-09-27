@@ -190,11 +190,11 @@
             "id": 107214500,
             "language": "Scala",
             "license": "MIT",
-            "last_commit": "2026-09-25T13:57:37Z",
-            "open_issues": 291,
+            "last_commit": "2026-09-27T19:33:36Z",
+            "open_issues": 293,
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2794,
+            "stars": 2793,
             "topics": [
               "android",
               "build-system",
@@ -1599,7 +1599,7 @@
             "language": "Scala",
             "license": "MIT",
             "last_commit": "2026-09-25T12:25:49Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "typelevel",
             "repo": "skunk",
             "stars": 1667,
@@ -1710,7 +1710,7 @@
             "id": 95900154,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T00:51:14Z",
+            "last_commit": "2026-09-27T01:08:14Z",
             "open_issues": 23,
             "owner": "softwaremill",
             "repo": "sttp",
@@ -2282,7 +2282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T20:02:06.227Z",
+    "last_updated": "2026-09-27T20:16:29.307Z",
     "original_repository_info": {
       "archived": false,
       "description": " Compilation of Scala Native resources and libraries ",
