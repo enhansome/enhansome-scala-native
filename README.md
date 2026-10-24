@@ -37,16 +37,16 @@
 
 ## Build Tools
 
-* [Mill](https://github.com/com-lihaoyi/mill) ⭐ 2,796 | 🐛 263 | 🌐 Scala | 📅 2026-10-22 - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
-* [Bloop](https://github.com/scalacenter/bloop) ⭐ 945 | 🐛 52 | 🌐 Scala | 📅 2026-10-23 - Scala build server and command-line tool for fast developer workflows.
-* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,625 | 🐛 1,693 | 🌐 Rust | 📅 2026-10-23.
+* [Mill](https://github.com/com-lihaoyi/mill) ⭐ 2,797 | 🐛 267 | 🌐 Scala | 📅 2026-10-22 - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
+* [Bloop](https://github.com/scalacenter/bloop) ⭐ 945 | 🐛 53 | 🌐 Scala | 📅 2026-10-23 - Scala build server and command-line tool for fast developer workflows.
+* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,629 | 🐛 1,690 | 🌐 Rust | 📅 2026-10-24.
 * [sbt](https://www.scala-sbt.org/) - Scala's standard build tool.
 
 ## Functional Programming
 
 * [Cats](https://github.com/typelevel/cats) ⭐ 5,476 | 🐛 279 | 🌐 Scala | 📅 2026-10-18 - Abstractions for functional programming in Scala.
 * [scalaz](https://github.com/scalaz/scalaz) ⭐ 4,669 | 🐛 155 | 🌐 Scala | 📅 2026-10-19 - Type classes and instances for data structures.
-* [Shapeless](https://github.com/milessabin/shapeless) ⭐ 3,403 | 🐛 31 | 🌐 Scala | 📅 2026-10-22 - Library for generic programming.
+* [Shapeless](https://github.com/milessabin/shapeless) ⭐ 3,402 | 🐛 31 | 🌐 Scala | 📅 2026-10-22 - Library for generic programming.
 * [chimney](https://github.com/scalalandio/chimney) ⭐ 1,257 | 🐛 8 | 🌐 Scala | 📅 2026-10-14 - Boilerplate-free data transformations.
 * [Squants](https://github.com/typelevel/squants) ⭐ 931 | 🐛 69 | 🌐 Scala | 📅 2026-09-03 - DSL for quantities, units of measure and dimensional analysis.
 * [Quicklens](https://github.com/softwaremill/quicklens) ⭐ 852 | 🐛 44 | 🌐 Scala | 📅 2026-10-23 - Modify deeply nested case class fields.
@@ -75,8 +75,8 @@
 * [BLAS](https://github.com/ekrich/sblas) ⭐ 39 | 🐛 5 | 🌐 Scala | 📅 2026-09-29 - Bindings for [BLAS](http://www.netlib.org/blas/), a library for Linear Algebra.
 * [Gtk+](https://github.com/jokade/scalanative-gtk) ⭐ 28 | 🐛 1 | 🌐 Scala | 📅 2020-10-11 - Bindings for the [GTK+](https://www.gtk.org/) graphical toolkit.
 * [Cocoa](https://github.com/jokade/scalanative-cocoa) ⭐ 22 | 🐛 7 | 🌐 Scala | 📅 2023-04-11 - Bindings for the macOS graphical framework [Cocoa](https://en.wikipedia.org/wiki/Cocoa_\(API\)).
-* [cmark](https://github.com/sparsetech/cmark-scala) ⭐ 16 | 🐛 0 | 🌐 Scala | 📅 2021-09-14 - Bindings for the [cmark](https://github.com/commonmark/cmark) ⭐ 2,040 | 🐛 79 | 🌐 C | 📅 2026-10-21 CommonMark parser library.
-* [libuv](https://github.com/TimothyKlim/scala-native-libuv) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2017-04-29 - Bindings for [libuv](https://github.com/libuv/libuv) ⭐ 27,281 | 🐛 246 | 🌐 C | 📅 2026-10-23, a library for asynchronous I/O.
+* [cmark](https://github.com/sparsetech/cmark-scala) ⭐ 16 | 🐛 0 | 🌐 Scala | 📅 2021-09-14 - Bindings for the [cmark](https://github.com/commonmark/cmark) ⭐ 2,042 | 🐛 79 | 🌐 C | 📅 2026-10-21 CommonMark parser library.
+* [libuv](https://github.com/TimothyKlim/scala-native-libuv) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2017-04-29 - Bindings for [libuv](https://github.com/libuv/libuv) ⭐ 27,280 | 🐛 246 | 🌐 C | 📅 2026-10-23, a library for asynchronous I/O.
 * [Qt](https://github.com/jokade/scalanative-qt5) ⭐ 9 | 🐛 0 | 🌐 Scala | 📅 2020-01-06 - Bindings for [Qt](https://www.qt.io).
 * [ncurses](https://github.com/edadma/ncurses) ⭐ 9 | 🐛 1 | 🌐 Scala | 📅 2025-02-16 - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
 * [GNU Scientific Library](https://github.com/ruivieira/scala-gsl) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2017-10-18 - Bindings for [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl).
@@ -92,9 +92,9 @@
 
 ## File Formats and Parsers
 
-* [ScalaPB](https://github.com/scalapb/ScalaPB) ⭐ 1,340 | 🐛 30 | 🌐 Scala | 📅 2026-10-20 - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
+* [ScalaPB](https://github.com/scalapb/ScalaPB) ⭐ 1,340 | 🐛 32 | 🌐 Scala | 📅 2026-10-20 - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
   * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) ⭐ 2 | 🐛 2 | 🌐 Scala | 📅 2026-10-12 - JSON and Protocol Buffer converters for ScalaPB based on [Argonaut](http://argonaut.io).
-* [FastParse](https://github.com/com-lihaoyi/fastparse) ⭐ 1,134 | 🐛 23 | 🌐 Scala | 📅 2026-08-20 - Library for defining and running parsers.
+* [FastParse](https://github.com/com-lihaoyi/fastparse) ⭐ 1,134 | 🐛 24 | 🌐 Scala | 📅 2026-08-20 - Library for defining and running parsers.
 * [scalatags](https://github.com/com-lihaoyi/scalatags) ⭐ 773 | 🐛 39 | 🌐 Scala | 📅 2025-07-11 - HTML/XML construction and rendering.
 * [uPickle](https://github.com/com-lihaoyi/upickle) ⭐ 768 | 🐛 40 | 🌐 Scala | 📅 2026-02-27 - uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala
 * [argonaut](https://github.com/argonaut-io/argonaut) ⭐ 544 | 🐛 27 | 🌐 Scala | 📅 2026-10-23 - Purely functional JSON parser and library.
@@ -114,7 +114,7 @@
 
 ## Web Development
 
-* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,507 | 🐛 21 | 🌐 Scala | 📅 2026-10-23 - HTTP Client library.
+* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,507 | 🐛 22 | 🌐 Scala | 📅 2026-10-24 - HTTP Client library.
 * [snunit](https://github.com/lolgab/snunit) ⭐ 149 | 🐛 0 | 🌐 Scala | 📅 2026-10-22 - Scala Native HTTP server based on NGINX Unit.
 * [Trail](https://github.com/sparsetech/trail) ⭐ 82 | 🐛 1 | 🌐 Scala | 📅 2022-05-04 - Routing library.
 
@@ -161,4 +161,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
