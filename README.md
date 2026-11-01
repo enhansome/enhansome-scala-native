@@ -37,23 +37,23 @@
 
 ## Build Tools
 
-* [Mill](https://github.com/com-lihaoyi/mill) ⭐ 2,801 | 🐛 265 | 🌐 Scala | 📅 2026-10-31 - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
-* [Bloop](https://github.com/scalacenter/bloop) ⭐ 944 | 🐛 45 | 🌐 Scala | 📅 2026-10-29 - Scala build server and command-line tool for fast developer workflows.
-* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,652 | 🐛 1,701 | 🌐 Rust | 📅 2026-10-30.
+* [Mill](https://github.com/com-lihaoyi/mill) ⭐ 2,801 | 🐛 262 | 🌐 Scala | 📅 2026-11-01 - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
+* [Bloop](https://github.com/scalacenter/bloop) ⭐ 944 | 🐛 47 | 🌐 Scala | 📅 2026-11-01 - Scala build server and command-line tool for fast developer workflows.
+* [Seed](https://github.com/tindzk/seed) ⭐ 238 | 🐛 24 | 🌐 Scala | 📅 2020-12-11 - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo) ⭐ 15,658 | 🐛 1,705 | 🌐 Rust | 📅 2026-11-01.
 * [sbt](https://www.scala-sbt.org/) - Scala's standard build tool.
 
 ## Functional Programming
 
-* [Cats](https://github.com/typelevel/cats) ⭐ 5,479 | 🐛 278 | 🌐 Scala | 📅 2026-10-29 - Abstractions for functional programming in Scala.
+* [Cats](https://github.com/typelevel/cats) ⭐ 5,480 | 🐛 277 | 🌐 Scala | 📅 2026-10-31 - Abstractions for functional programming in Scala.
 * [scalaz](https://github.com/scalaz/scalaz) ⭐ 4,670 | 🐛 157 | 🌐 Scala | 📅 2026-10-29 - Type classes and instances for data structures.
 * [Shapeless](https://github.com/milessabin/shapeless) ⭐ 3,401 | 🐛 31 | 🌐 Scala | 📅 2026-10-28 - Library for generic programming.
 * [chimney](https://github.com/scalalandio/chimney) ⭐ 1,257 | 🐛 9 | 🌐 Scala | 📅 2026-10-14 - Boilerplate-free data transformations.
 * [Squants](https://github.com/typelevel/squants) ⭐ 931 | 🐛 69 | 🌐 Scala | 📅 2026-10-28 - DSL for quantities, units of measure and dimensional analysis.
-* [Quicklens](https://github.com/softwaremill/quicklens) ⭐ 852 | 🐛 44 | 🌐 Scala | 📅 2026-10-23 - Modify deeply nested case class fields.
+* [Quicklens](https://github.com/softwaremill/quicklens) ⭐ 852 | 🐛 44 | 🌐 Scala | 📅 2026-11-01 - Modify deeply nested case class fields.
 * [SourceCode](https://github.com/lihaoyi/sourcecode) ⭐ 544 | 🐛 34 | 🌐 Scala | 📅 2025-10-15 - Implicits providing meta data similar to `__LINE__` in C.
 * [PPrint](https://github.com/lihaoyi/PPrint) ⭐ 248 | 🐛 21 | 🌐 Scala | 📅 2026-05-28 - Pretty-print values and types.
-* [reactify](https://github.com/outr/reactify) ⭐ 93 | 🐛 11 | 🌐 Scala | 📅 2026-10-18 - Functional Reactive Programming framework for Scala.
-* [nobox](https://github.com/xuwei-k/nobox) ⭐ 33 | 🐛 0 | 🌐 Scala | 📅 2026-10-28 - Immutable primitive array wrapper without boxing.
+* [reactify](https://github.com/outr/reactify) ⭐ 94 | 🐛 12 | 🌐 Scala | 📅 2026-11-01 - Functional Reactive Programming framework for Scala.
+* [nobox](https://github.com/xuwei-k/nobox) ⭐ 33 | 🐛 1 | 🌐 Scala | 📅 2026-11-01 - Immutable primitive array wrapper without boxing.
 
 ## Unit Tests
 
@@ -61,22 +61,22 @@
 * [ScalaTest](https://github.com/scalatest/scalatest) ⭐ 1,170 | 🐛 545 | 🌐 Scala | 📅 2026-10-25 - Testing library.
 * [specs2](https://github.com/etorreborre/specs2) ⭐ 735 | 🐛 0 | 🌐 Scala | 📅 2026-10-29 - Software Specifications for Scala.
 * [µTest](https://github.com/lihaoyi/utest) ⭐ 509 | 🐛 21 | 🌐 Scala | 📅 2026-01-22 - Library for unit tests.
-* [MUnit](https://github.com/scalameta/munit) ⭐ 472 | 🐛 41 | 🌐 Scala | 📅 2026-10-31 - Scala testing library with actionable errors and extensible APIs.
-* [scalaprops](https://github.com/scalaprops/scalaprops) ⭐ 283 | 🐛 13 | 🌐 Scala | 📅 2026-10-23 - Library for property-based testing.
-  * [scalaprops-shapeless](https://github.com/scalaprops/scalaprops-shapeless) ⭐ 10 | 🐛 4 | 🌐 Scala | 📅 2026-10-28 - Generation of arbitrary ADT instances.
-  * [scalaprops-cross-example](https://github.com/scalaprops/scalaprops-cross-example) ⭐ 4 | 🐛 1 | 🌐 Scala | 📅 2026-10-12 - Cross-platform example.
-* [minitest](https://github.com/monix/minitest) ⭐ 182 | 🐛 28 | 🌐 Scala | 📅 2026-10-12 - Lightweight testing library.
+* [MUnit](https://github.com/scalameta/munit) ⭐ 472 | 🐛 43 | 🌐 Scala | 📅 2026-11-01 - Scala testing library with actionable errors and extensible APIs.
+* [scalaprops](https://github.com/scalaprops/scalaprops) ⭐ 283 | 🐛 9 | 🌐 Scala | 📅 2026-11-01 - Library for property-based testing.
+  * [scalaprops-shapeless](https://github.com/scalaprops/scalaprops-shapeless) ⭐ 10 | 🐛 5 | 🌐 Scala | 📅 2026-10-28 - Generation of arbitrary ADT instances.
+  * [scalaprops-cross-example](https://github.com/scalaprops/scalaprops-cross-example) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2026-11-01 - Cross-platform example.
+* [minitest](https://github.com/monix/minitest) ⭐ 183 | 🐛 28 | 🌐 Scala | 📅 2026-10-12 - Lightweight testing library.
 * [Makeshift](https://github.com/nadavwr/makeshift) ⭐ 1 | 🐛 0 | 🌐 Scala | 📅 2018-03-10 - Library for unit tests.
 
 ## Bindings
 
-* [libui](https://github.com/lolgab/scalaui) ⭐ 76 | 🐛 1 | 🌐 Scala | 📅 2026-10-31 - GUI framework based on [libui](https://github.com/andlabs/libui) ⭐ 10,892 | 🐛 250 | 🌐 C | 📅 2024-05-29.
+* [libui](https://github.com/lolgab/scalaui) ⭐ 76 | 🐛 1 | 🌐 Scala | 📅 2026-10-31 - GUI framework based on [libui](https://github.com/andlabs/libui) ⭐ 10,891 | 🐛 250 | 🌐 C | 📅 2024-05-29.
 * [SDL2 and OpenGL](https://github.com/regb/scalanative-graphics-bindings) ⭐ 45 | 🐛 3 | 🌐 Scala | 📅 2022-08-02 - Bindings for the graphical frameworks [SDL2](https://www.libsdl.org/) and [OpenGL](https://www.opengl.org).
 * [BLAS](https://github.com/ekrich/sblas) ⭐ 39 | 🐛 0 | 🌐 Scala | 📅 2026-10-30 - Bindings for [BLAS](http://www.netlib.org/blas/), a library for Linear Algebra.
 * [Gtk+](https://github.com/jokade/scalanative-gtk) ⭐ 28 | 🐛 1 | 🌐 Scala | 📅 2020-10-11 - Bindings for the [GTK+](https://www.gtk.org/) graphical toolkit.
 * [Cocoa](https://github.com/jokade/scalanative-cocoa) ⭐ 22 | 🐛 7 | 🌐 Scala | 📅 2023-04-11 - Bindings for the macOS graphical framework [Cocoa](https://en.wikipedia.org/wiki/Cocoa_\(API\)).
-* [cmark](https://github.com/sparsetech/cmark-scala) ⭐ 16 | 🐛 0 | 🌐 Scala | 📅 2021-09-14 - Bindings for the [cmark](https://github.com/commonmark/cmark) ⭐ 2,041 | 🐛 87 | 🌐 C | 📅 2026-10-29 CommonMark parser library.
-* [libuv](https://github.com/TimothyKlim/scala-native-libuv) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2017-04-29 - Bindings for [libuv](https://github.com/libuv/libuv) ⭐ 27,292 | 🐛 256 | 🌐 C | 📅 2026-10-31, a library for asynchronous I/O.
+* [cmark](https://github.com/sparsetech/cmark-scala) ⭐ 16 | 🐛 0 | 🌐 Scala | 📅 2021-09-14 - Bindings for the [cmark](https://github.com/commonmark/cmark) ⭐ 2,042 | 🐛 87 | 🌐 C | 📅 2026-10-29 CommonMark parser library.
+* [libuv](https://github.com/TimothyKlim/scala-native-libuv) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2017-04-29 - Bindings for [libuv](https://github.com/libuv/libuv) ⭐ 27,293 | 🐛 257 | 🌐 C | 📅 2026-10-31, a library for asynchronous I/O.
 * [Qt](https://github.com/jokade/scalanative-qt5) ⭐ 9 | 🐛 0 | 🌐 Scala | 📅 2020-01-06 - Bindings for [Qt](https://www.qt.io).
 * [ncurses](https://github.com/edadma/ncurses) ⭐ 9 | 🐛 1 | 🌐 Scala | 📅 2025-02-16 - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
 * [GNU Scientific Library](https://github.com/ruivieira/scala-gsl) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2017-10-18 - Bindings for [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl).
@@ -92,8 +92,8 @@
 
 ## File Formats and Parsers
 
-* [ScalaPB](https://github.com/scalapb/ScalaPB) ⭐ 1,340 | 🐛 35 | 🌐 Scala | 📅 2026-10-29 - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
-  * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) ⭐ 2 | 🐛 2 | 🌐 Scala | 📅 2026-10-28 - JSON and Protocol Buffer converters for ScalaPB based on [Argonaut](http://argonaut.io).
+* [ScalaPB](https://github.com/scalapb/ScalaPB) ⭐ 1,340 | 🐛 35 | 🌐 Scala | 📅 2026-11-01 - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
+  * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) ⭐ 2 | 🐛 3 | 🌐 Scala | 📅 2026-10-28 - JSON and Protocol Buffer converters for ScalaPB based on [Argonaut](http://argonaut.io).
 * [FastParse](https://github.com/com-lihaoyi/fastparse) ⭐ 1,135 | 🐛 25 | 🌐 Scala | 📅 2026-08-20 - Library for defining and running parsers.
 * [scalatags](https://github.com/com-lihaoyi/scalatags) ⭐ 773 | 🐛 39 | 🌐 Scala | 📅 2025-07-11 - HTML/XML construction and rendering.
 * [uPickle](https://github.com/com-lihaoyi/upickle) ⭐ 768 | 🐛 40 | 🌐 Scala | 📅 2026-02-27 - uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala
@@ -102,7 +102,7 @@
 * [Pine](https://github.com/sparsetech/pine) ⭐ 110 | 🐛 9 | 🌐 Scala | 📅 2020-12-10 - HTML/XML parsing, manipulation and rendering.
 * [scala-json](https://github.com/MediaMath/scala-json) ⭐ 63 | 🐛 7 | 🌐 Scala | 📅 2022-01-17 - JSON parser.
 * [toml-scala](https://github.com/sparsetech/toml-scala) ⚠️ Archived - [TOML](https://github.com/toml-lang/toml) ⭐ 20,651 | 🐛 5 | 📅 2026-10-31 parser with codec derivation.
-* [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) ⭐ 5 | 🐛 3 | 🌐 Scala | 📅 2026-10-28 - Implementation of [MessagePack](https://msgpack.org/), a binary serialisation format.
+* [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) ⭐ 5 | 🐛 3 | 🌐 Scala | 📅 2026-11-01 - Implementation of [MessagePack](https://msgpack.org/), a binary serialisation format.
 * [squiggly](https://github.com/edadma/squiggly) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-08-29 - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
 ## Databases
@@ -114,8 +114,8 @@
 
 ## Web Development
 
-* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,506 | 🐛 26 | 🌐 Scala | 📅 2026-10-31 - HTTP Client library.
-* [snunit](https://github.com/lolgab/snunit) ⭐ 149 | 🐛 0 | 🌐 Scala | 📅 2026-10-31 - Scala Native HTTP server based on NGINX Unit.
+* [sttp](https://github.com/softwaremill/sttp) ⭐ 1,506 | 🐛 27 | 🌐 Scala | 📅 2026-11-01 - HTTP Client library.
+* [snunit](https://github.com/lolgab/snunit) ⭐ 149 | 🐛 1 | 🌐 Scala | 📅 2026-11-01 - Scala Native HTTP server based on NGINX Unit.
 * [Trail](https://github.com/sparsetech/trail) ⭐ 82 | 🐛 1 | 🌐 Scala | 📅 2022-05-04 - Routing library.
 
 ## Concurrency
@@ -136,7 +136,7 @@
 * [decline](https://github.com/bkirwi/decline) ⭐ 678 | 🐛 36 | 🌐 Scala | 📅 2026-04-08 - A composable command-line parser for Scala.
 * [fansi](https://github.com/com-lihaoyi/fansi) ⭐ 237 | 🐛 25 | 🌐 Scala | 📅 2025-10-15 - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 * [mainargs](https://github.com/com-lihaoyi/mainargs) ⭐ 215 | 🐛 37 | 🌐 Scala | 📅 2026-01-14 - Small, dependency-free library for command line argument parsing in Scala.
-* [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) ⭐ 16 | 🐛 4 | 🌐 Scala | 📅 2026-10-25 - Port of Haskell's CLI argument parsing library [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
+* [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) ⭐ 16 | 🐛 5 | 🌐 Scala | 📅 2026-10-25 - Port of Haskell's CLI argument parsing library [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
 
 ## Robotics
 
@@ -161,4 +161,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
